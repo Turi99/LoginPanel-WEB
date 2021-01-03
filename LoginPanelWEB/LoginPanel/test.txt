@@ -1,0 +1,19 @@
+﻿<!--<div id="emailTXT">
+        <div>Email</div>
+        <div style="float:left"><input type="email" /></div>
+        <div style="clear:both"></div>
+    </div>
+    <div id="pwdTxt">
+        <div>Password</div>
+        <div style="float:left"><input type="password" /></div>
+        <div style="clear:both"></div>
+    </div>
+    <div id="nameTxt">
+        Name <input type="text" />
+    </div>
+    <div id="surnameTxt">
+        Surname <input type="text" />
+    </div>
+    <div id="ageTxt">
+        Age <input type="number" />
+    </div>-->
